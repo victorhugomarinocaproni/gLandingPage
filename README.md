@@ -16,4 +16,4 @@ This Landing Page was created following some classes I took from a course I've b
 
 # Links:
 
-- 
+- https://victorhugomarinocaproni.github.io/gLandingPage/
